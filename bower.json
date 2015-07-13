@@ -1,0 +1,16 @@
+{
+  "name": "food-holiday",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marsette25/nss1",
+  "authors": [
+    "marsette25 <marsie.thomas@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
